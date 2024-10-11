@@ -1,0 +1,21 @@
+
+  #banner {
+    background-image: url('banner.jpg');
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  #banner h1 {
+    font-size: 4rem;
+  }
+
+  footer {
+    background-color: #6CA73E;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem 0;
+}
